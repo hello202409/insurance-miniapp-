@@ -1,0 +1,11 @@
+{
+  "name": "initData",
+  "version": "1.0.0",
+  "description": "首次导入数据到云数据库",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3",
+    "request-promise": "^4.2.6",
+    "request": "^2.88.2"
+  }
+}

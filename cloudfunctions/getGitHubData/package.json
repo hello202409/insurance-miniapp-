@@ -1,0 +1,11 @@
+{
+  "name": "getGitHubData",
+  "version": "1.0.0",
+  "description": "从GitHub获取保险产品数据",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3",
+    "request-promise": "^4.2.6",
+    "request": "^2.88.2"
+  }
+}
